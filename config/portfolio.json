@@ -1,0 +1,159 @@
+{
+  "personal": {
+    "name": "Khushi Manik",
+    "profileImage": "/khushi-profile.jpg",
+    "about": "AI & Data Science student at VESIT with a passion for building intelligent solutions. I specialize in machine learning, full-stack development, and data analysis. Currently working on projects that combine AI with practical real-world applications to create meaningful impact.",
+    "email": "khushimanik64@gmail.com",
+    "phone": "+91 8830997434",
+    "location": "Mumbai, India"
+  },
+  "skills": [
+    "python",
+    "machine-learning",
+    "data-analysis",
+    "sql",
+    "html",
+    "java",
+    "react"
+  ],
+  "links": [
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/khushi-manik-84a39925b/",
+      "style": "primary",
+      "icon": "🔗"
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/Khushi-Manik",
+      "style": "accent",
+      "icon": "💻"
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "url": "mailto:khushimanik64@gmail.com",
+      "style": "outline",
+      "icon": "✉️"
+    }
+  ],
+  "buttonStyles": {
+    "primary": {
+      "className": "bg-primary hover:bg-primary/90 text-primary-foreground transition-all duration-200"
+    },
+    "accent": {
+      "className": "bg-accent hover:bg-accent/90 text-accent-foreground transition-all duration-200"
+    },
+    "outline": {
+      "className": "border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground bg-transparent transition-all duration-200"
+    },
+    "shade": {
+      "className": "bg-card text-card-foreground border border-border shadow-lg dark:shadow-white-glow light:shadow-black-deep hover:shadow-xl transition-all duration-200"
+    },
+    "neon": {
+      "className": "bg-primary text-primary-foreground border-2 border-primary shadow-lg shadow-primary/50 hover:shadow-primary/70 hover:shadow-xl transition-all duration-200"
+    },
+    "glass": {
+      "className": "bg-card/20 backdrop-blur-sm border border-border/50 text-foreground hover:bg-card/30 transition-all duration-200"
+    },
+    "mode": {
+      "className": "bg-foreground text-background hover:bg-foreground/90 transition-all duration-200"
+    }
+  },
+  "portfolio": [
+    {
+      "id": "outfit-recommendation",
+      "title": "AI-Based Outfit Recommendation System",
+      "timestamp": "2024-06-30",
+      "type": "single",
+      "action": "link",
+      "url": "https://github.com/Khushi-Manik/outfit-recommender",
+      "description": "Personalized fashion assistant using ensemble ML models for body type prediction and outfit recommendations with 85% accuracy"
+    },
+    {
+      "id": "menstrual-health",
+      "title": "Menstrual Health Web App",
+      "timestamp": "2025-07-15",
+      "type": "single",
+      "action": "link",
+      "url": "https://github.com/Vesit-Internship/v1_updated-2-features",
+      "description": "Comprehensive health tracking app with period prediction, fertility tracking, and cycle insights (90% prediction accuracy)"
+    },
+    {
+      "id": "crawl-hub",
+      "title": "Crawl Hub",
+      "timestamp": "2024-03-20",
+      "type": "single",
+      "action": "link",
+      "url": "https://github.com/Khushi-Manik/Crawl-Hub-Website",
+      "description": "Full-stack web crawler with Django backend, reducing manual data collection time by 70%"
+    },
+    {
+      "id": "research-platform",
+      "title": "Research Platform",
+      "timestamp": "2024-02-10",
+      "type": "single",
+      "action": "link",
+      "url": "https://github.com/ANJALIPILLAI2603/Research_Collab",
+      "description": "Research assistant platform with NLP and ML integration for paper summarization and researcher matchmaking"
+    }
+  ],
+  "experience": [
+    {
+      "id": "ai-intern",
+      "title": "Artificial Intelligence Intern",
+      "company": "TechSaksham",
+      "period": "December 2024",
+      "description": "Worked on identifying shopping trends using Python and ML on 3900+ data points, improving accuracy by 35%"
+    },
+    {
+      "id": "summer-intern",
+      "title": "Student Summer Intern",
+      "company": "Vivekanand Education Society's Institute of Technology",
+      "period": "May 2025 - July 2025",
+      "description": "Developed comprehensive Menstrual Health web app using React and FastAPI with 90% prediction accuracy"
+    }
+  ],
+  "education": [
+    {
+      "id": "vesit",
+      "degree": "B.E. in Artificial Intelligence and Data Science",
+      "school": "Vivekanand Education Society's Institute of Technology",
+      "location": "Mumbai",
+      "period": "2022 - 2026",
+      "cgpa": "8.25"
+    },
+    {
+      "id": "auxilium",
+      "degree": "Higher Secondary Certificate",
+      "school": "Auxilium Convent High School and Junior College",
+      "location": "Ahmednagar",
+      "period": "2020 - 2022",
+      "percentage": "69.83%"
+    },
+    {
+      "id": "bosco",
+      "degree": "Secondary School Certificate",
+      "school": "Don Bosco English Medium School",
+      "location": "Ahmednagar",
+      "period": "2010 - 2020",
+      "percentage": "77.80%"
+    }
+  ],
+  "accomplishments": [
+    {
+      "id": "techtube-winner",
+      "title": "2nd Place Winner",
+      "event": "AI Pitch Event, TechTube Competition, VESIT",
+      "year": "2024"
+    },
+    {
+      "id": "wwt-hackathon",
+      "title": "Top 25 Finalist",
+      "event": "WWT Hackathon (out of 150+ participating teams)",
+      "year": "2024"
+    }
+  ]
+}
