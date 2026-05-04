@@ -1,6 +1,10 @@
 {
   "personal": {
     "name": "Khushi Manik",
+    "role": "AI and Data Science Student",
+    "headline": "I design intelligent products that turn messy data into clear human decisions.",
+    "intro": "Based in Mumbai, I build machine learning systems, full-stack tools, and research-led products that feel practical, measurable, and real.",
+    "availability": "Open to internships, research roles, and product engineering opportunities.",
     "profileImage": "/khushi-profile.jpg",
     "about": "AI & Data Science student at VESIT with a passion for building intelligent solutions. I specialize in machine learning, full-stack development, and data analysis. Currently working on projects that combine AI with practical real-world applications to create meaningful impact.",
     "email": "khushimanik64@gmail.com",
@@ -70,7 +74,14 @@
       "type": "single",
       "action": "link",
       "url": "https://github.com/Khushi-Manik/outfit-recommender",
-      "description": "Personalized fashion assistant using ensemble ML models for body type prediction and outfit recommendations with 85% accuracy"
+      "description": "Personalized fashion assistant using ensemble ML models for body type prediction and outfit recommendations with 85% accuracy",
+      "impact": "Built an ensemble recommendation flow that improved fashion matching accuracy to 85%.",
+      "stack": ["Python", "Machine Learning", "Recommendation Systems"],
+      "highlights": [
+        "Combined body type prediction with outfit ranking.",
+        "Focused on personal relevance instead of generic catalog output.",
+        "Designed as a product, not just a model demo."
+      ]
     },
     {
       "id": "menstrual-health",
@@ -79,7 +90,14 @@
       "type": "single",
       "action": "link",
       "url": "https://github.com/Vesit-Internship/v1_updated-2-features",
-      "description": "Comprehensive health tracking app with period prediction, fertility tracking, and cycle insights (90% prediction accuracy)"
+      "description": "Comprehensive health tracking app with period prediction, fertility tracking, and cycle insights (90% prediction accuracy)",
+      "impact": "Shipped a health tracking experience with prediction accuracy near 90% and clearer user guidance.",
+      "stack": ["React", "FastAPI", "Prediction Models"],
+      "highlights": [
+        "Built cycle tracking and fertility insight features.",
+        "Worked across frontend experience and predictive logic.",
+        "Focused on clarity for a sensitive, high-use workflow."
+      ]
     },
     {
       "id": "crawl-hub",
@@ -88,7 +106,14 @@
       "type": "single",
       "action": "link",
       "url": "https://github.com/Khushi-Manik/Crawl-Hub-Website",
-      "description": "Full-stack web crawler with Django backend, reducing manual data collection time by 70%"
+      "description": "Full-stack web crawler with Django backend, reducing manual data collection time by 70%",
+      "impact": "Reduced manual data collection effort by 70% with a full-stack crawling workflow.",
+      "stack": ["Django", "Python", "Automation"],
+      "highlights": [
+        "Automated repetitive data collection tasks.",
+        "Connected backend crawling with a usable web interface.",
+        "Optimized for practical speed gains, not just technical correctness."
+      ]
     },
     {
       "id": "research-platform",
@@ -97,7 +122,14 @@
       "type": "single",
       "action": "link",
       "url": "https://github.com/ANJALIPILLAI2603/Research_Collab",
-      "description": "Research assistant platform with NLP and ML integration for paper summarization and researcher matchmaking"
+      "description": "Research assistant platform with NLP and ML integration for paper summarization and researcher matchmaking",
+      "impact": "Used NLP and ML to make research discovery and collaboration faster for students and researchers.",
+      "stack": ["NLP", "Machine Learning", "Collaboration Tools"],
+      "highlights": [
+        "Summarized research papers for quicker review.",
+        "Matched researchers through relevance-based suggestions.",
+        "Framed AI features around collaboration outcomes."
+      ]
     }
   ],
   "experience": [
